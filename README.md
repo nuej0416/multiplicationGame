@@ -2,4 +2,4 @@
 
 ### [순서도]
 
-![숫자야구_순서도](https://user-images.githubusercontent.com/68860983/112813686-7454dc00-90b9-11eb-9e90-7651bb6aef72.png)
+![순서도](https://user-images.githubusercontent.com/68860983/112813816-98182200-90b9-11eb-8dac-87377992e538.png)
